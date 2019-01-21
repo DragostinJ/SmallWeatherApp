@@ -2,6 +2,7 @@
   "name": "seasons",
   "version": "0.1.0",
   "private": true,
+  "homepage" : "http://dragostinj.github.io/seasons",
   "dependencies": {
     "react": "^16.8.0-alpha.0",
     "react-dom": "^16.8.0-alpha.0",
